@@ -390,7 +390,6 @@ sns.boxplot(
     palette='pastel'    # 색상 팔레트
 )
 
-
 # sns.boxplot(
 #     data=train,
 #     x='작업유형',       # X축: 범주형 (작업유형)
